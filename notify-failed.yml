@@ -1,0 +1,8 @@
+email:
+  subj: "UDPP is Failed for Market"
+  to: "shivam.maurya@here.com"
+  cc: "shivam.maurya@here.com"
+  body_template: "test_template.html"
+  signature: "NDS IVY Delivery Management Team"
+
+
